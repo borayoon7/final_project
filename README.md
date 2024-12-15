@@ -7,7 +7,7 @@
 - 모델 파일 : model_.py
 - 학습된 모델 파일
   - 개발 모델 : boReEsNet12.pth
-  - 기존 모델 :ReesNet12.pth
+  - 기존 모델 : ReesNet12.pth
 
 
 데이터셋의 경우 용량이 커 업로드하지 못함
